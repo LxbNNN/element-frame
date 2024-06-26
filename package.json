@@ -33,8 +33,9 @@
   },
   "lint-staged": {
     "*.{vue,js,ts,jsx,tsx,md}": [
-      "pnpm run prettier",
-      "pnpm run lint"
+      "npm run  prettier",
+      "npm run  lint",
+      "git add ."
     ]
   }
 }
