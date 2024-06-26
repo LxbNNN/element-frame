@@ -9,6 +9,7 @@
     "prettier": "prettier --write .",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx,.vue .",
     "lint:fix": "pnpm run lint --fix",
+    "commitlint": "commitlint --config commitlint.config.js -e -V",
     "pre-commit": "lint-staged"
   },
   "dependencies": {
