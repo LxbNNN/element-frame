@@ -1,0 +1,13 @@
+docs-dist
+node_modules
+*.md
+.vscode
+dist
+/public
+/docs
+.husky
+.local
+.eslintrc.js
+/bin
+glasssix-ui
+pnpm-lock.yaml

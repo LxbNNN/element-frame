@@ -1,0 +1,10 @@
+/dist/*
+docs-dist
+.local
+/node_modules/**
+/glasssix-ui/**
+
+**/*.svg
+**/*.sh
+stats.html
+/public/*
